@@ -1,4 +1,4 @@
-package hellotool
+package main
 
 import (
 	"fmt"
